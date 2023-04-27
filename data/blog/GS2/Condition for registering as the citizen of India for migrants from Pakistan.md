@@ -1,0 +1,2 @@
+# Condition for registering as the citizen of India for migrants from Pakistan on the Commencement of the Constitution
+- He should have been ordinarily resident in the territory of India for at least six months before the date of his application

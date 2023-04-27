@@ -1,0 +1,6 @@
+- India is a civilizational state and hence its worldview can't be separated from its culture and tradition. In fact J.L. Nehru , India's first prime minister and key architect of its foreign policy, commented that he was **not inventing India's foreign policy, rather merely rediscovering it in the past**.
+- India's commitment to International peace, as evident in Article 51 of the constitution, is a consequence of its civilizational values of tolerance, non-violence, **Vasudeva Kutumbukam**, idea of **Sarva Bhavantu Sukhina** etc.
+- While other countries use military power and economic strength to gain influence, India has sought to leverage its cultural relations, be it with South Asia or West Asia, to develop mutually beneficial partnerships.
+- Indian culture forms the basis of its [[Power in international Politics#^c28904|soft power]].
+- Not only does Indian culture represent a passive tradition, but **Kautilya's Mandal Siddhanth** is representative of India's realist tradition. This tradition seems to have a grater influence on the current government's foreign policy.
+- Civilizational states are not satisfied by merely pursuing foreign policy to secure national interest. They seek to shape the world order according to their cultural values. India is no exception.
