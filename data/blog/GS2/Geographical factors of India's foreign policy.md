@@ -1,6 +1,0 @@
-- India's strategic location at the center of the Asian arc extending from Aden(Yemen) to Tokyo makes it a gateway to South East Asia, Central Asia and West Asia. It was because of this that the USA and the erstwhile USSR initially competed to bring India within their sphere of influence during the Cold War.
-- India's location at the head of the Indian Ocean along with other determinants makes India a net security provider in the region. India's vast coastline necessitates a strong diplomacy with the Indian Ocean littoral countries.
-- India shares man made frontiers with Pakistan, Myanmar, Bangladesh which requires a strategic approach towards the security of its borders. India, unlike the USA and UK, has to focus on the continent as well as on it's coast as far as its foreign policy formulation is concerned.
-- India's look East and look West Policy are determined as well as expressed in geographical terms
-- India's size in terms of area and population makes it a contender to UNSC membership
-- Distance is the prime inhibiting factor in developing close relations between India and Latin America

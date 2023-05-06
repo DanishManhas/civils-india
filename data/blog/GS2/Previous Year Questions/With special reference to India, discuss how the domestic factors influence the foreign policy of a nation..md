@@ -1,1 +1,0 @@
-# With special reference to India, discuss how the domestic factors influence the foreign policy of a nation.

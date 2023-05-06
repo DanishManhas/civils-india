@@ -16,14 +16,15 @@ export async function getStaticProps() {
 }
 
 export default function Home({ posts }) {
+ 
   return (
     <>
       <PageSEO title={siteMetadata.title} description={siteMetadata.description} />
-      <div className='container h-1/3 relative'>
-        <div className='w-full h-full bg-hero-pattern opacity-60 dark:opacity-80 absolute top-0 left-0'></div>
-        <div className='w-full h-full px-4 py-48  absolute top-0 left-0'>
-        <h1 className='text-6xl font-light-black leading-9  text-blue-600 dark:text-gray-900 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14'> Welcome to CivilsIndia</h1>
-      <h2 className='text-2xl text-gray-700 leading-9 tracking-wide dark:text-blue-700 font-black mt-5 '>Specialised Notes for UPSC preperation</h2>
+      <div className='container h-screen'>
+        <div className='w-full h-full bg-hero-pattern -z-10 opacity-40 dark:opacity-40 absolute top-0 left-0'></div>
+        <div className='w-full h-full px-4 py-48'>
+        <h1 className='text-5xl font-light-black leading-9  text-blue-800 dark:text-white sm:text-4xl sm:leading-10 md:text-6xl md:leading-14'> Welcome to CivilsIndia</h1>
+      <h2 className='font-bold text-2xl text-gray-700 leading-10 tracking-wide dark:text-blue-400 mt-5 '>Specialised Notes for UPSC preperation</h2>
         </div>
       
       </div>
@@ -40,6 +41,7 @@ export default function Home({ posts }) {
           {!posts.length && 'No posts found.'}
           {posts.slice(0, MAX_DISPLAY).map((frontMatter) => {
             const { slug, date, title, summary, tags } = frontMatter
+            console.log("tags=====", tags)
             return (
               <li key={slug} className="py-12">
                 <article>
@@ -61,11 +63,11 @@ export default function Home({ posts }) {
                               {title}
                             </Link>
                           </h2>
-                          <div className="flex flex-wrap">
-                            {tags.map((tag) => (
+                          {/* <div className="flex flex-wrap">
+                            {tags && tags.map((tag) => (
                               <Tag key={tag} text={tag} />
                             ))}
-                          </div>
+                          </div> */}
                         </div>
                         <div className="prose max-w-none text-gray-500 dark:text-gray-400">
                           {summary}

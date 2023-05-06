@@ -1,1 +1,0 @@
-# Comparison of the Indian constitutional scheme with that of other countries

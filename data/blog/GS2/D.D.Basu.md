@@ -1,1 +1,0 @@
-## Quotes By  D. D. Basu

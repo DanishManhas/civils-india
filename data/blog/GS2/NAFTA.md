@@ -1,2 +1,0 @@
-# NAFTA
-#international-relations #seedling 

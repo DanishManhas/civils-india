@@ -32,7 +32,7 @@ module.exports = {
         gray: colors.neutral,
       },
       backgroundImage:{
-        'hero-pattern':"url('/static/images/paper-hero.jpg')",
+        'hero-pattern':"url('/static/images/alfons-morales-YLSwjSy7stw-unsplash(1).jpg')",
       },
       typography: (theme) => ({
         DEFAULT: {

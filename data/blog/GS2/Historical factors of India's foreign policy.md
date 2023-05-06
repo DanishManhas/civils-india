@@ -1,3 +1,0 @@
-- Support to anti-colonial movements in Africa and Asian countries represent India's own history of suffering under colonization.
-- Similar is India's support for anti apartheid
-- History of partition continues to result in adverserial relations between India and Pakistan to this day

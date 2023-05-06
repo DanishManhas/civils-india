@@ -1,3 +1,0 @@
- ## New Neighbourhood policy, 2005
- South Asia , though divided by political boundaries, forms a single geographical unit with shared cultural legacy . **We can neither erase the political boundaries, nor redraw them, but we need to work to make them progressively irrelevant.**
-Borders can be made progressively irrelevant by fostering better connectivity development of the border areas, encouraging economic and cultural exchanges across borders
