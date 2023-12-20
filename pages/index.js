@@ -23,8 +23,8 @@ export default function Home({ posts }) {
       <div className='container h-screen'>
         <div className='w-full h-full bg-hero-pattern -z-10 opacity-40 dark:opacity-40 absolute top-0 left-0'></div>
         <div className='w-full h-full px-4 py-48'>
-        <h1 className='text-5xl font-light-black leading-9  text-blue-800 dark:text-white sm:text-4xl sm:leading-10 md:text-6xl md:leading-14'> Welcome to CivilsIndia</h1>
-      <h2 className='font-bold text-2xl text-gray-700 leading-10 tracking-wide dark:text-blue-400 mt-5 '>Specialised Notes for UPSC preperation</h2>
+        <h1 className='font-bold text-5xl font-light-black leading-9  text-blue-800 dark:text-white sm:text-4xl sm:leading-10 md:text-6xl md:leading-14'> Welcome to CivilsIndia</h1>
+      <h2 className='text-3xl text-gray-600 leading-10 tracking-wide dark:text-blue-400 mt-5 '>Specialised Notes for UPSC preperation</h2>
         </div>
       
       </div>
