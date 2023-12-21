@@ -2,7 +2,7 @@
   "../components/ClientReload.js -> socket.io-client": {
     "id": "../components/ClientReload.js -> socket.io-client",
     "files": [
-      "static/chunks/node_modules_socket_io-client_build_esm_index_js.js"
+      "static/chunks/node_modules_pnpm_socket_io-client_4_7_2_node_modules_socket_io-client_build_esm_index_js.js"
     ]
   }
 }
